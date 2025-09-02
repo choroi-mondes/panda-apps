@@ -15,17 +15,17 @@ VBAソースと処理元ファイル置いてます。
   
 こちらが動作イメージ。  
   
-<img src="img/img/pp01.jpg" alt="ぱんだあぷり" width="320"><br>
+<img src="img/pp01.jpg" alt="ぱんだあぷり" width="320"><br>
 ぱんだあぷりです。<br>
 <br>
-<img src="img/img/pp02_import.jpg" alt="ファイル読み込み" width="320"><br>
+<img src="img/pp02_import.jpg" alt="ファイル読み込み" width="320"><br>
 ファイルロード画面。<br>
 <br>
 <br>
 <br>
-<img src="img/img/pp03_before.jpg" alt="こういうシートが" width="320"><br>
+<img src="img/pp03_before.jpg" alt="こういうシートが" width="320"><br>
 こういうシートが<br>
 <br>
- <img src="img/img/pp04_after.jpg" alt="こうなります" width="320"><br>
+ <img src="img/pp04_after.jpg" alt="こうなります" width="320"><br>
 こうなります。  
 
