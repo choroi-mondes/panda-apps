@@ -16,6 +16,6 @@ VBAソースと処理元ファイル置いてます。
 こちらが動作イメージ。  
   
 ![ぱんだあぷり操作画面](img/pp01.jpg)  
-![ファイル読み込み](img/pp2_import.jpg)  
+![ファイル読み込み](img/pp02_import.jpg)  
 ![こういうシートが](img/pp03_before.jpg)  
 ![こうなります](img/pp04_after.jpg)  
